@@ -1,5 +1,6 @@
 package lincoln.lab.java.concurrency.thisescape;
 
+
 /**
  * 
  * ThisNotEscape对象启动后，要启动一个线程，并在里面打印该对象；用这个方式就不会导致逸出；
