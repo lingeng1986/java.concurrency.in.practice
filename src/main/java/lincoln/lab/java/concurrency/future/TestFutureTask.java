@@ -38,6 +38,9 @@ public class TestFutureTask {
 	TestFutureTask task = new TestFutureTask();
 	task.start();
 	System.out.println(task.getResult());
+	System.out.println(task.getResult());
+	System.out.println(task.getResult());
+
 
     }
 
